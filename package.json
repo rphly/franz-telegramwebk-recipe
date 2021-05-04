@@ -1,0 +1,14 @@
+{
+  "id": "telegramk",
+  "name": "Telegram2",
+  "version": "1.0.0",
+  "description": "Telegram WebK",
+  "main": "index.js",
+  "author": "Raphael Yee <raphaelyeejunkai@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://webk.telegram.org",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
