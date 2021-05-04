@@ -1,5 +1,5 @@
-# Telegram2 for Franz
-This recipe is a modification of the official Franz recipe for Telegram to support Telegram2.
+# Telegram Web K for Franz
+This recipe is a modification of the official Franz recipe for Telegram to support TelegramWebK.
 
 Thanks Stefan Malzner(github.com/adlk)
 ### How to create your own Franz recipes:
